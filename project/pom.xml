@@ -3,8 +3,8 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>ci.jenkins.aws</groupId>
-        <artifactId>project</artifactId>
-        <version>1.0-Sanju-Child</version>
+        <artifactId>project1</artifactId>
+        <version>1.0-Sanju</version>
     </parent>
 
     <artifactId>project</artifactId>

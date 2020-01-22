@@ -59,9 +59,12 @@
         </plugins>
     </build>
     <distributionManagement>
-    <snapshotRepository>
+    <repository>
+        <uniqueVersion>false</uniqueVersion>
       <id>deployment</id>
+      <name>My test Repository</name>
       <url>http://34.93.201.69:8081/nexus/content/repositories/jenkinsToNexus/</url>
-    </snapshotRepository>
+      <layout>default</layout>
+    </repository>
   </distributionManagement>
 </project>

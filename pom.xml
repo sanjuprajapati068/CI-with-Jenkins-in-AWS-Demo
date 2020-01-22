@@ -61,7 +61,7 @@
     <distributionManagement>
     <snapshotRepository>
       <id>deployment</id>
-      <url>http://34.93.201.69:8081/repository/jenkinsToNexus/</url>
+      <url>http://34.93.201.69:8081/nexus/content/repositories/jenkinsToNexus/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>

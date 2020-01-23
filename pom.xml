@@ -4,7 +4,7 @@
     <groupId>ci.jenkins.aws</groupId>
     <artifactId>proj2</artifactId>
     <packaging>pom</packaging>
-    <name>Project Build</name>
+    <name>Sanju Project Build</name>
     <version>1.0-SNAPSHOT</version>
 
     <modules>
